@@ -13,7 +13,7 @@ namespace PlatAuction
         {
             InitializeComponent();
 
-            MainPage = new PlatAuction.MainPage();
+            MainPage = new Auctions();
         }
 
         protected override void OnStart()
